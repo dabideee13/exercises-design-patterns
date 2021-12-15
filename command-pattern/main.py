@@ -1,3 +1,7 @@
+"""
+Source: https://medium.com/design-patterns-in-python/undo-redo-pattern-in-python-70ade29644b3
+"""
+
 from abc import ABCMeta, abstractstaticmethod
 import time
 
